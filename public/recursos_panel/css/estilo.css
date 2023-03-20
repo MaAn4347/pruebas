@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+    
+}
+.container2{
+    max-width: 700px;
+    margin:auto;
+    padding:20px;
+}
+.section{
+    border: 2px solid #5624d0;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 10px 0;
+}
+label{
+    display: block;
+    padding: 7px;
+    border-radius: 7px;
+    cursor: pointer;
+    border: 1px dashed #ccc;
+    margin-bottom: 3px;
+}
+label:hover{
+    background: orangered;
+}
+button:hover{
+    background:orange;
+    color:#fff;
+}
+h2{
+    text-align: center;
+}
+#resultado{
+    font-size: 30px;
+    color:darkred;
+}
+/* Estilo de texto para temas */
+.tema {
+    font-family: 'Pacifico', cursive;
+    font-size: 16px;
+  }
+  
+  /* Estilo de texto para títulos */
+  .titulo {
+    font-family: 'Montserrat Black', sans-serif;
+    font-size: 46px;
+    color:white;
+  }
+  
+  /* Estilo de texto para subtitulos */
+  .subtitulo {
+    font-family: 'Oswald', sans-serif;
+    font-size: 26px;
+  }
+  
+  /* Estilo de texto para botones */
+  .boton {
+    font-family: 'Britannic Bold', sans-serif;
+    font-size: 14px;
+  }
+  
+  /* Estilo de texto para el cuerpo del texto */
+  .cuerpo {
+    font-family: 'Georgia', serif;
+    font-size: 14px;
+  }
+  
+  /* Estilo de texto para los quiz */
+  .quiz {
+    font-family: 'Russo One', sans-serif;
+    font-size: 14px;
+  }
+  
+  /* Estilo de texto para los links */
+  .link {
+    font-family: 'Rockwell', serif;
+    font-size: 14px;
+  }
+  
+  /* Estilo para justificar el texto */
+  .justificar {
+    text-align: justify;
+  }
+  
